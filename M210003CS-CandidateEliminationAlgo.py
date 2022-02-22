@@ -2,7 +2,7 @@ import pandas as pd
 
 data=[]
 
-A = pd.read_csv(r"C:\\Users\\ksake\\2nd Sem ML Lab Code\\ACRegulation.csv", nrows = 8)
+A = pd.read_csv("ACRegulation.csv", nrows = 8)
 
 for index, rows in A.iterrows():
     data.append(list(rows))
