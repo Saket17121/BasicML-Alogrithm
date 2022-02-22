@@ -1,0 +1,51 @@
+﻿ElectricVoltage,Temperature,Humidity,CompressorSpeed,FanSpeed,FinDirection,Mode_of_Op
+Regular,Too Cold,Dry,Off,Off,Away,Yes
+Regular,Too Cold,Refreshing,Off,Off,Away,Yes
+Regular,Too Cold,Comfortable,Off,Off,Away,Yes
+Regular,Too Cold,Humid,Off,Very Low,Away,Yes
+Regular,Too Cold,Sticky,Very Low,Low,Towards,No
+Regular,Cold,Dry,Off,Off,Away,Yes
+Regular,Cold,Refreshing,Off,Off,Away,Yes
+Regular,Cold,Comfortable,Very Low,Very Low,Away,Yes
+Regular,Cold,Humid,Very Low,Low,Towards,Yes
+Regular,Cold,Sticky,Low,Low,Towards,No
+Regular,Warm,Dry,Very Low,Very Low,Away,Yes
+Regular,Warm,Refreshing,Very Low,Very Low,Away,Yes
+Regular,Warm,Comfortable,Low,Low,Away,Yes
+Regular,Warm,Humid,Medium,Medium,Towards,No
+Regular,Warm,Sticky,Medium,Medium,Towards,No
+Regular,Hot,Dry,Low,Low,Away,Yes
+Regular,Hot,Refreshing,Medium,Medium,Away,Yes
+Regular,Hot,Comfortable,Medium,Medium,Towards,Yes
+Regular,Hot,Humid,Fast,Fast,Towards,No
+Regular,Hot,Sticky,Fast,Fast,Towards,No
+Regular,Too Hot,Dry,Medium,Medium,Away,Yes
+Regular,Too Hot,Refreshing,Medium,Medium,Towards,Yes
+Regular,Too Hot,Comfortable,Fast,Fast,Towards,No
+Regular,Too Hot,Humid,Fast,Fast,Towards,No
+Regular,Too Hot,Sticky,Fast,Fast,Towards,No
+Low,Too Cold,Dry,Off,Off,Away,Yes
+Low,Too Cold,Refreshing,Off,Off,Away,Yes
+Low,Too Cold,Comfortable,Off,Off,Away,Yes
+Low,Too Cold,Humid,Off,Off,Away,Yes
+Low,Too Cold,Sticky,Off,Low,Towards,No
+Low,Cold,Dry,Off,Off,Away,Yes
+Low,Cold,Refreshing,Off,Off,Away,Yes
+Low,Cold,Comfortable,Off,Off,Away,Yes
+Low,Cold,Humid,Very Low,Very Low,Towards,Yes
+Low,Cold,Sticky,Very Low,Low,Towards,No
+Low,Warm,Dry,Very Low,Very Low,Away,Yes
+Low,Warm,Refreshing,Very Low,Very Low,Towards,Yes
+Low,Warm,Comfortable,Very Low,Very Low,Towards,Yes
+Low,Warm,Humid,Low,Low,Towards,No
+Low,Warm,Sticky,Low,Low,Towards,No
+Low,Hot,Dry,Low,Low,Away,Yes
+Low,Hot,Refreshing,Low,Low,Towards,Yes
+Low,Hot,Comfortable,Medium,Medium,Towards,Yes
+Low,Hot,Humid,Medium,Medium,Towards,No
+Low,Hot,Sticky,Fast,Fast,Towards,No
+Low,Too Hot,Dry,Medium,Medium,Towards,Yes
+Low,Too Hot,Refreshing,Medium,Medium,Towards,Yes
+Low,Too Hot,Comfortable,Medium,Medium,Towards,No
+Low,Too Hot,Humid,Fast,Fast,Towards,No
+Low,Too Hot,Sticky,Fast,Fast,Towards,No
